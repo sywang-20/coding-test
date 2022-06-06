@@ -12,3 +12,7 @@ Apply Random Forest and to find the best value of the number of trees
 3.tree_method.ipynb
 
 Apply Random Forest(to include more hyperparameters) and Gradient Boosting Regression Tree
+
+4.knn(to do)
+
+test knn and pay attention to data normalization(make some comparisons) since distance function is used and knn is sensitive to scale
