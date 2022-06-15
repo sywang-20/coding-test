@@ -16,3 +16,7 @@ Apply Random Forest(to include more hyperparameters) and Gradient Boosting Regre
 4.knn(to do)
 
 test knn and pay attention to data normalization(make some comparisons) since distance function is used and knn is sensitive to scale
+
+## Part 2: Classification
+
+data_preparation_for_classification.ipynb: create new dataset according to the value of PM2.5 to test classification algorithms
