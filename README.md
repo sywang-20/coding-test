@@ -13,9 +13,9 @@ Apply Random Forest and to find the best value of the number of trees
 
 Apply Random Forest(to include more hyperparameters) and Gradient Boosting Regression Tree
 
-***1-4.knn(to do)***
+***1-4.knn***
 
-test knn and pay attention to data normalization(make some comparisons) since distance function is used and knn is sensitive to scale
+Apply knn and pay attention to data normalization(**make some comparisons(haven't test)**) since distance function is used and knn is sensitive to scale
 
 ## Part 2: Classification
 
